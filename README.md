@@ -21,3 +21,9 @@ A simple Tic Tac Toe game implemented using HTML, CSS, and JavaScript.
 
 The computer opponent makes random valid moves in this basic implementation. To create a smarter computer player, you can modify the `computerMove` function in the `script.js` file with more advanced AI logic.
 
+## Features
+
+- Player vs. Computer gameplay.
+- Win detection and game-ending conditions.
+- Game status display.
+- Reset button to start a new game.
