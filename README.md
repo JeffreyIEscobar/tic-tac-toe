@@ -28,6 +28,9 @@ The computer opponent makes random valid moves in this basic implementation. To 
 - Game status display.
 - Reset button to start a new game.
 
+## Contributing
+
+Contributions are welcome! If you'd like to enhance or customize this application, feel free to fork this repository and submit a pull request.
 
 
 ## License
