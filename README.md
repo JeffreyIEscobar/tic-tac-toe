@@ -1,4 +1,4 @@
-# Tic Tac Toe Game
+# Tic Tac Toe Game ✖️🅾️✖️🅾️
 
 A simple Tic Tac Toe game implemented using HTML, CSS, and JavaScript.
 
@@ -31,7 +31,6 @@ The computer opponent makes random valid moves in this basic implementation. To 
 ## Contributing
 
 Contributions are welcome! If you'd like to enhance or customize this application, feel free to fork this repository and submit a pull request.
-
 
 ## License
 
