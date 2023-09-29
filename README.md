@@ -16,3 +16,8 @@ A simple Tic Tac Toe game implemented using HTML, CSS, and JavaScript.
 4. The computer will make its move (Player 'O') automatically.
 5. The game will continue until there is a winner or a draw.
 6. You can click the "Reset" button to start a new game.
+
+## Computer AI
+
+The computer opponent makes random valid moves in this basic implementation. To create a smarter computer player, you can modify the `computerMove` function in the `script.js` file with more advanced AI logic.
+
