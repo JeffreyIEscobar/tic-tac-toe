@@ -27,3 +27,9 @@ The computer opponent makes random valid moves in this basic implementation. To 
 - Win detection and game-ending conditions.
 - Game status display.
 - Reset button to start a new game.
+
+
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
